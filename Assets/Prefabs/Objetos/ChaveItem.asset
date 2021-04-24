@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bad9ecf0821aaef47be74535f48949e6, type: 3}
+  m_Name: ChaveItem
+  m_EditorClassIdentifier: 
+  nomeObjeto: Chave
+  sprite: {fileID: -7250442343172595910, guid: 27ae9e4bd9369024b8df0239d7b3f369, type: 3}
+  quantidade: 1
+  empilhavel: 0
+  tipoItem: 2
